@@ -28,7 +28,6 @@ fun Speedometer() {
         contentAlignment = Alignment.Center
     ) {
         Text(
-
             text = speed.toString(),
             fontSize = 100.sp,
             color = Color.White
