@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+drawable nav_item_my_car_as_clicked_state
+drawable nav_item_my_car_is_unclicked_state
+drawable nav_item_overview_is_clicked_state
+drawable nav_item_overview_is_unclicked_state
+drawable nav_item_speed_as_click_state
+drawable nav_item_speed_as_unclicked_state
+string my_car
+string overview
+string speedBottomNavigation
